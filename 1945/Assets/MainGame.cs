@@ -131,3 +131,4 @@ public class MainGame : MonoBehaviour
             NuclearSymbolPosition
         );
     }
+}
