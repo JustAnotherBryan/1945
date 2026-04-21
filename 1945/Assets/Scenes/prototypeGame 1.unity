@@ -539,7 +539,7 @@ MonoBehaviour:
   failGain: 0.2
   failLoss: 1
   failBar: {fileID: 1665867520}
-  loseSceneName: GameOver
+  loseSceneName: protoEndScene
 --- !u!4 &1304468945
 Transform:
   m_ObjectHideFlags: 0
