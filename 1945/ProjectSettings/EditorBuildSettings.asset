@@ -11,5 +11,11 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/protoEndScene.unity
     guid: 5319c784887d69440bb7f5311c51e3f5
+  - enabled: 1
+    path: Assets/Zahir/Map/Apartment.unity
+    guid: 6ec6eb373b5f18040a31fa5b598abc52
+  - enabled: 1
+    path: Assets/Zahir/Map/Lab.unity
+    guid: 30ac515679cc1dd4b9fcfb335e8c542d
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 9ccdeceb199cf6f43ad055219fc5b3df, type: 3}
