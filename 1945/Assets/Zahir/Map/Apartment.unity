@@ -1707,8 +1707,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   textComponent: {fileID: 2031768253}
   lines:
-  - Hellodwa Hellodwa  Hellodwa Hellodwa
-  - Hellodwa HellodwaHellodwaHellodwaHellodwa
+  - Aghhhh, this couch is not comfortable at all. I should get a bed soon, I don't
+    think I can keep waking up to this pain.
+  - I should get to work quick, I woke up late.
+  - Dang my right hand hurts, hopefully it doesn't affect my performance later in
+    the showcase.
   textSpeed: 0.01
 --- !u!114 &479129664
 MonoBehaviour:
@@ -5341,7 +5344,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: New Text
+  m_text: sample
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
