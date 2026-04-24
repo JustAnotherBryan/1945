@@ -18,7 +18,7 @@ public class MainGame3D : MonoBehaviour
 
     float targetPosition;
     float targetDestination;
-    float targetTimer;
+    [SerializeField] float targetTimer;
     [SerializeField] float timerMultiplicator = 3f;
     float targetSpeed;
     [SerializeField] float smoothMotion = 1f;
